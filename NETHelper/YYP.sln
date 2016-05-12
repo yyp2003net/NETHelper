@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETHelper", "NETHelper\NETH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETHelperTests", "NETHelperTests\NETHelperTests.csproj", "{2CBF6C97-9B57-4580-BE46-1A2E7832A171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETHelperConsole", "ConsoleApplication1\NETHelperConsole.csproj", "{BA7EE3FF-D03C-412B-8957-90840D9FF697}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETHelperConsole", "NETHelperConsole\NETHelperConsole.csproj", "{BA7EE3FF-D03C-412B-8957-90840D9FF697}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
