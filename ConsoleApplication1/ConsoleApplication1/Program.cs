@@ -10,6 +10,7 @@ namespace ConsoleApplication1
         {
                 static void Main(string[] args)
                 {
+                      NETHelper.Unzip.Run(@"C:\Users\YYp\Desktop\zips", @"C:\Users\YYp\Desktop\zips\unzip");
                 }
         }
 }
